@@ -2,4 +2,6 @@
 
 #### Whats Up Mr Hans
 
+Author: Lakshay Sahni, Talin Hans
+
 
